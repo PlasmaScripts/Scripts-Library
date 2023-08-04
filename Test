@@ -1,0 +1,2 @@
+echo "Testing script for PlasmaScripts"
+Start-Sleep -Seconds 10
